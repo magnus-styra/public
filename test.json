@@ -1,0 +1,9 @@
+[
+  {
+    "objectClass": ["organizationalUnit"],
+    "dn": {
+      "_raw": "raw"
+    },
+    "ou": ["first", "last"]
+  }
+]
